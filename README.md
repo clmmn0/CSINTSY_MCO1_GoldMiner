@@ -7,6 +7,11 @@ A Java-based game whose main objective is for the player to find the hidden pot 
 - Pit: if the player falls on the tile with a pit, the player loses and the game ends
 - Beacon: shows how far the player is from the pot of gold in terms of the number of tiles, if the beacon and the pot of gold are in the same row or column, but does not show the direction where the pot of gold can be found
 
+**Player Capabilities**
+- Rotate: the player can rotate which changes its direction, but the player can only rotate clockwise
+- Move Foward: the player can move one tile forward which depends on the direction that the player is facing
+- Scan: the player can scan the tile in front of it to determine if it is a blank tile or if it contains a pot of gold, pit, or beacon
+
 **Running the Game**
 1. Type `javac driver.java` on your command prompt and run. The different classes should have been initialized after running this prompt.
 2. Type `java driver` on your command prompt and run. 
