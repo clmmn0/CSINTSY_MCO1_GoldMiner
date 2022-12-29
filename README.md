@@ -12,3 +12,4 @@ A Java-based game whose main objective is for the player to find the hidden pot 
 2. Type `java driver` on your command prompt and run. 
 3. Fill up all necessary inputs.
 4. The board will generate and the game will start.
+5. A summary of the game will be shown at the end.
