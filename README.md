@@ -12,9 +12,12 @@ A Java-based game whose main objective is for the player to find the hidden pot 
 - Move Foward: the player can move one tile forward which depends on the direction that the player is facing
 - Scan: the player can scan the tile in front of it to determine if it is a blank tile or if it contains a pot of gold, pit, or beacon
 
-**Running the Game**
-1. Type `javac driver.java` on your command prompt and run. The different classes should have been initialized after running this prompt.
-2. Type `java driver` on your command prompt and run. 
-3. Fill up all necessary inputs.
-4. The board will generate and the game will start.
-5. A summary of the game will be shown at the end.
+# How to Run the Program
+1. Clone this repository.
+2. Navigate to the cloned version of this repository.
+3. Open the command prompt.
+4. Type and run `javac driver.java` in the command prompt. An instance of the driver class must be created upon running this prompt.
+5. Type and run `java driver` in the command prompt. 
+6. Wait for the program to start.
+7. Fill up all input fields.
+8. Play the game.
