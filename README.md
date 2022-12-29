@@ -21,3 +21,5 @@ A Java-based game whose main objective is for the player to find the hidden pot 
 6. Wait for the program to start.
 7. Fill up all input fields.
 8. Play the game.
+
+You may also run the program using applications like Visual Studio Code.
